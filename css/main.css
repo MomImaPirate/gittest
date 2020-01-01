@@ -9,3 +9,8 @@ p {
 h2 {
     font-size: 50px;
 }
+
+.descr {
+    font-size: 35px;
+    color: rgb(0, 81, 255);
+}
